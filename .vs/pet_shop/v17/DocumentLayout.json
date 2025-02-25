@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\wamp64\\www\\pet_shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\pet_shop\\registration.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:registration.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\pet_shop\\cart.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cart.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\pet_shop\\edit_account.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:edit_account.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\pet_shop\\admin\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\index.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\pet_shop\\admin\\home.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\home.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\pet_shop\\config.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\pet_shop\\login.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:login.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\pet_shop\\view_product.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:view_product.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\wamp64\\www\\pet_shop\\admin\\inc\\footer.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin\\inc\\footer.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "edit_account.php",
+              "DocumentMoniker": "C:\\wamp64\\www\\pet_shop\\edit_account.php",
+              "RelativeDocumentMoniker": "edit_account.php",
+              "ToolTip": "C:\\wamp64\\www\\pet_shop\\edit_account.php",
+              "RelativeToolTip": "edit_account.php",
+              "ViewState": "AQIAADoAAAAAAAAAAAAmwGgAAAAJAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2024-11-16T09:22:50.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.php",
+              "DocumentMoniker": "C:\\wamp64\\www\\pet_shop\\admin\\index.php",
+              "RelativeDocumentMoniker": "admin\\index.php",
+              "ToolTip": "C:\\wamp64\\www\\pet_shop\\admin\\index.php",
+              "RelativeToolTip": "admin\\index.php",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwEMAAAAxAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2024-11-16T09:12:52.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "home.php",
+              "DocumentMoniker": "C:\\wamp64\\www\\pet_shop\\admin\\home.php",
+              "RelativeDocumentMoniker": "admin\\home.php",
+              "ToolTip": "C:\\wamp64\\www\\pet_shop\\admin\\home.php",
+              "RelativeToolTip": "admin\\home.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAxAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2024-11-16T09:12:43.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cart.php",
+              "DocumentMoniker": "C:\\wamp64\\www\\pet_shop\\cart.php",
+              "RelativeDocumentMoniker": "cart.php",
+              "ToolTip": "C:\\wamp64\\www\\pet_shop\\cart.php",
+              "RelativeToolTip": "cart.php",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAmwMAAAAAJAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2024-11-16T08:50:06.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "config.php",
+              "DocumentMoniker": "C:\\wamp64\\www\\pet_shop\\config.php",
+              "RelativeDocumentMoniker": "config.php",
+              "ToolTip": "C:\\wamp64\\www\\pet_shop\\config.php",
+              "RelativeToolTip": "config.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2024-11-16T08:46:31.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "registration.php",
+              "DocumentMoniker": "C:\\wamp64\\www\\pet_shop\\registration.php",
+              "RelativeDocumentMoniker": "registration.php",
+              "ToolTip": "C:\\wamp64\\www\\pet_shop\\registration.php",
+              "RelativeToolTip": "registration.php",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAmwG4AAAAJAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2024-11-16T08:45:46.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.php",
+              "DocumentMoniker": "C:\\wamp64\\www\\pet_shop\\login.php",
+              "RelativeDocumentMoniker": "login.php",
+              "ToolTip": "C:\\wamp64\\www\\pet_shop\\login.php",
+              "RelativeToolTip": "login.php",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwDEAAAAkAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2024-11-16T08:39:49.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "view_product.php",
+              "DocumentMoniker": "C:\\wamp64\\www\\pet_shop\\view_product.php",
+              "RelativeDocumentMoniker": "view_product.php",
+              "ToolTip": "C:\\wamp64\\www\\pet_shop\\view_product.php",
+              "RelativeToolTip": "view_product.php",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEUAAAAUAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2024-10-29T08:05:23.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "footer.php",
+              "DocumentMoniker": "C:\\wamp64\\www\\pet_shop\\admin\\inc\\footer.php",
+              "RelativeDocumentMoniker": "admin\\inc\\footer.php",
+              "ToolTip": "C:\\wamp64\\www\\pet_shop\\admin\\inc\\footer.php",
+              "RelativeToolTip": "admin\\inc\\footer.php",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAD8AAACIAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2024-10-27T20:29:58.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
