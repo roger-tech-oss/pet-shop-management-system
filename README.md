@@ -49,6 +49,5 @@ Shop Page: http://localhost/pet-shop-management/
 
 📧 Contact
 For queries, feel free to reach out:
-✉️ Email: georgebiby002@gmail.com
 🐙 GitHub: roger-tech-oss
 
